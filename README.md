@@ -1,3 +1,3 @@
 ## Hello 😊
 
-- 📖 I’m currently studying the python library <strong>scikit-learn<strong> for machine learning.
+- 📖 I’m currently studying <strong>BI<strong> for data analysis.
