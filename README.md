@@ -1,3 +1,3 @@
 ## Hello 😊
 
-- 📖 I’m currently studying <strong>BI<strong> for data analysis.
+- 📖 I’m currently studying <strong>Machine Learning<strong>.
